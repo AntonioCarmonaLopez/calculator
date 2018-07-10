@@ -1,0 +1,6 @@
+/home/antonio/git/c#/calculadora/gtk1/bin/Debug/gtk1.exe
+/home/antonio/git/c#/calculadora/gtk1/bin/Debug/gtk1.pdb
+/home/antonio/git/c#/calculadora/gtk1/obj/x86/Debug/calculadora.csprojResolveAssemblyReference.cache
+/home/antonio/git/c#/calculadora/gtk1/obj/x86/Debug/calculadora.csproj.CoreCompileInputs.cache
+/home/antonio/git/c#/calculadora/gtk1/obj/x86/Debug/gtk1.exe
+/home/antonio/git/c#/calculadora/gtk1/obj/x86/Debug/gtk1.pdb

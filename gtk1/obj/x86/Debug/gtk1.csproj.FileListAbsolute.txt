@@ -1,0 +1,6 @@
+/home/antonio/Projects/gtk1/gtk1/obj/x86/Debug/gtk1.csproj.CoreCompileInputs.cache
+/home/antonio/Projects/gtk1/gtk1/bin/Debug/gtk1.exe
+/home/antonio/Projects/gtk1/gtk1/bin/Debug/gtk1.pdb
+/home/antonio/Projects/gtk1/gtk1/obj/x86/Debug/gtk1.csprojResolveAssemblyReference.cache
+/home/antonio/Projects/gtk1/gtk1/obj/x86/Debug/gtk1.exe
+/home/antonio/Projects/gtk1/gtk1/obj/x86/Debug/gtk1.pdb
